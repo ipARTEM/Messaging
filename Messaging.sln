@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging", "Messaging\Messaging.csproj", "{041192AC-1C41-466A-BC0F-CF4286B05D75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messaging", "Messaging\Messaging.csproj", "{041192AC-1C41-466A-BC0F-CF4286B05D75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurant.Booking", "Restaraunt.Booking\Restaurant.Booking.csproj", "{5D6AB17E-EC7E-47E3-A668-1C95ACE87140}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurant.Notification", "Restaurant.Notification\Restaurant.Notification.csproj", "{55E11735-597F-4F20-B845-AAA82393110A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{041192AC-1C41-466A-BC0F-CF4286B05D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{041192AC-1C41-466A-BC0F-CF4286B05D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{041192AC-1C41-466A-BC0F-CF4286B05D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6AB17E-EC7E-47E3-A668-1C95ACE87140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6AB17E-EC7E-47E3-A668-1C95ACE87140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6AB17E-EC7E-47E3-A668-1C95ACE87140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6AB17E-EC7E-47E3-A668-1C95ACE87140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E11735-597F-4F20-B845-AAA82393110A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E11735-597F-4F20-B845-AAA82393110A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E11735-597F-4F20-B845-AAA82393110A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E11735-597F-4F20-B845-AAA82393110A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
